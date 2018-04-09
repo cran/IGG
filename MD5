@@ -1,0 +1,13 @@
+2509a294098823d80df668e958085664 *DESCRIPTION
+6a7d0419956743ee11b0e9d874cc8765 *NAMESPACE
+51c08665b2026009e19307857673f6ca *R/igg.R
+9696ab566a1804db770d5437139d951c *R/igg.normalmeans.R
+f015431dd92cecd93a39cbbce85a4d9b *build/partial.rdb
+c8ed6b1f91f1c259a44a9e95658ddc8d *data/datalist
+906b572eaf1f5c3c7fd1a22402a93ddf *data/diabetes.RData
+7e3e873fad5f02d8e2969667d7c77f23 *data/singh2002.RData
+55876f5e70a697d0bfa85a0282ba6db5 *man/IGG-package.Rd
+f8b7144fbf44d849a315bed0307c2acd *man/diabetes.Rd
+0c8c3883a43f8fc0f0891844716f2650 *man/igg.Rd
+492f6225620f8d28dde8f55d1df541dc *man/igg.normalmeans.Rd
+54223d88c0fb81ab618364bec6f92005 *man/singh2002.Rd

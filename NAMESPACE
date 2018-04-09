@@ -1,0 +1,9 @@
+# Export all names
+exportPattern(".")
+
+# Imports
+import(MASS, glmnet, pscl, GIGrvg)
+
+importFrom("Matrix", "chol", "chol2inv")
+importFrom("stats", "var", "median", "quantile", "rgamma", "rnorm", "runif")
+importFrom("utils", "tail")
